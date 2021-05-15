@@ -11,16 +11,19 @@
   },
   "dependencies": {
     "@gorhom/paper-onboarding": "^1.0.0",
+    "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
     "react-native-gesture-handler": "^1.10.3",
+    "react-native-image-picker": "^0.28.1",
     "react-native-onboarding-swiper": "^1.1.4",
     "react-native-paper-onboarding": "^1.0.2",
     "react-native-reanimated": "^2.1.0",
     "react-native-slider": "^0.11.0",
     "react-native-slider-color-picker": "^2.2.1",
     "react-native-snap-carousel": "^3.9.1",
-    "react-native-svg": "^12.1.1"
+    "react-native-svg": "^12.1.1",
+    "rn-fetch-blob": "^0.10.16"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
